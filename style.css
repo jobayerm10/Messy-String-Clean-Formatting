@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  margin: 15px 35px;
+  padding: 5px 10px;
+  background: rgba(15, 200, 216, 0.566);
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  margin: 15px 35px;
+  padding: 5px 10px;
+  background: rgba(227, 243, 10, 0.689);
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+}
